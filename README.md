@@ -1,5 +1,5 @@
 <h2>Hi, I'm Ivan Siacho! <img src="https://media.giphy.com/media/MU4J3aBKxKyeS6TXDd/giphy.gif" height="80" /></h2>
-<img align='right' src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="160">
+<img align='right' src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="40%">
 <p><em>Web Software Enginner at <a href="https://crowdcomfort.com/">CrowdComfort</a>
 </em></p>
 
