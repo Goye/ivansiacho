@@ -1,5 +1,5 @@
-<h2>Hi, I'm Ivan Siacho! 👋</h2>
-<img align='right' src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="130">
+<h2>Hi, I'm Ivan Siacho! <img src="https://media.giphy.com/media/MU4J3aBKxKyeS6TXDd/giphy.gif" height="80" /></h2>
+<img align='right' src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="180">
 <p><em>Web Software Enginner at <a href="https://crowdcomfort.com/">CrowdComfort</a>
 </em></p>
 
@@ -7,14 +7,21 @@
 [![Linkedin: ivansiachoque](https://img.shields.io/badge/-ivansiachoque-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/ivan-siachoque-17491247/)](linkedin.com/in/ivan-siachoque-17491247/)
 [![GitHub Ivansiacho](https://img.shields.io/github/followers/ivansiacho?label=follow&style=social)](https://github.com/ivansiacho)
 
+<p>
+Software Engineer, experienced in crafting solutions using Html, CSS, Python, and JavaScript. Deep knowledge and practical experience using React, Angular, Vanilla, Flask, and Node.
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me...
+Experience with Docker, Travis, Cypress, and Webdriver. Leadership roles, creativity, and fast learner, who enjoys being a part of a team. 
+</p>
+
+
+### <img src="https://media.giphy.com/media/cXRew6iGi0cLZSl76j/giphy.gif" width="80"> About me...
 
 ```javascript
 const skills = {
-  languages: [Javascript, Typescript, Python, HTML, CSS],
+  languages: [Javascript, Typescript, Python, HTML, CSS, SQL],
   tools: [React, Angular, Node, Flask, Docker, Travis],
-  soft: "Leadership roles, creativity, and fast learner, who enjoys being a part of a team."
+  db: [MySQL, Mongo, Couchbase, SQLAlchemy],
+  soft: "Leadership roles, creativity, and fast learner"
 }
 ```
 
