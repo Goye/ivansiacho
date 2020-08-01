@@ -3,8 +3,8 @@
 <p><em>Web Software Enginner at <a href="https://crowdcomfort.com/">CrowdComfort</a>
 </em></p>
 
-[![Twitter: IvanSiacho](https://img.shields.io/twitter/follow/IvanSiacho?style=social)](https://twitter.com/IvanSiacho)
-[![Linkedin: ivansiachoque](https://img.shields.io/badge/-ivansiachoque-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/ivan-siachoque-17491247/)](linkedin.com/in/ivan-siachoque-17491247/)
+[![Twitter: IvanSiacho](https://img.shields.io/twitter/follow/IvanSiacho?style=social)](https://twitter.com/IvanSiacho)<br/>
+[![Linkedin: ivansiachoque](https://img.shields.io/badge/-ivansiachoque-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/ivan-siachoque-17491247/)](linkedin.com/in/ivan-siachoque-17491247/)<br/>
 [![GitHub Ivansiacho](https://img.shields.io/github/followers/ivansiacho?label=follow&style=social)](https://github.com/ivansiacho)
 
 <p>
